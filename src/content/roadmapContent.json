@@ -1,0 +1,23 @@
+{
+    "roadmap": [{
+        "id": 1,
+        "title": "📹 The Content 📹",
+        "content":"Document the entire process on Tiktok of creating an NFT project. Use your Drippy Duck NFT to access docuemnted resources on how to build your own NFT project."
+    },
+    {
+        "id": 2,
+        "title": "🐤 The 3D Model Collection 🐤",
+        "content":"Design cartoonish 3D modelled ducks (as determined by the TikTok community) and release initial version 1.0 collection."
+    },
+    {
+        "id": 3,
+        "title": "🕹️ The Gamification 🕹️",
+        "content":"Create and launch a multiplayer game with Drippy Ducks integration. Provide documentation on how to design and build a NFT game. Allow Drippy Ducks NFT holders initial testing of the game. Release game free to play for NFT holders."
+    },
+    {
+        "id": 4,
+        "title": "🌐 The Metaverse 🌐",
+        "content":"What's next is what I can BUILD IN PUBLIC for you on TikTok! How do we build a Duck Metaverse that is fun to play with your ideas! What do you want to learn? AR/VR? Metaverse Land? Metations? Open to Suggestions!"
+    }]
+    
+}
