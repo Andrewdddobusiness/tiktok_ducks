@@ -25,7 +25,7 @@ function Mission() {
                             @Andrewdddo
                         </div>
                         <br/>
-                        <div class="font-4">
+                        <div class="font-4" style={{textShadow: '0 0 0.5rem #000'}}>
                             I'm a Full Stack Software Engineer with a passion for NFTs, Blockchain development, and Content Creation!
                             <br/><br/>I'm definitely not an artist, but I'm pretty decent at googling things and learning on the fly! 
                         </div>
@@ -53,7 +53,7 @@ function Mission() {
                         
                     </div>
                 </div>
-                <div class="text-container font-4" style={{textAlign: 'center'}}>
+                <div class="text-container font-4" style={{textAlign: 'center', textShadow: '0 0 0.5rem #000'}}>
                     My goal is to create a community of learners, builders and developer enthusiasts that wish to grow alongside one another. 
                     This NFT project started out as an experiement, a means for TikTok content... however, now it's evolved into an idea for long-term growth and development.
                     Join us on our mission to create an NFT project and learn how to do it yourself!
