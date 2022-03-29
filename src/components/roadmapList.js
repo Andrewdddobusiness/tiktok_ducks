@@ -35,7 +35,7 @@ function RoadmapList() {
                     <RenderItems items={RoadmapItems} />,
                     </div>
                     <div class="column right">
-                        <Model/>
+                        {/* <Model/> */}
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ function RoadmapList() {
                   Roadmap
                 </div>
                 <RenderItems items={RoadmapItems} />,
-                <Model/>
+                {/* <Model/> */}
             </div>
           </Hidden>
 
@@ -57,7 +57,7 @@ function RoadmapList() {
                   Roadmap
                 </div>
                 <RenderItems items={RoadmapItems} />,
-                <Model/>
+                {/* <Model/> */}
             </div>
           </Hidden>
             
