@@ -59,7 +59,7 @@ function Carousel() {
             </div>
           </Hidden>
 
-          <Hidden xsDown lgUp>
+          <Hidden smDown mdUp>
             <div className="container">
             <div class="carousel-container">
             <Swiper

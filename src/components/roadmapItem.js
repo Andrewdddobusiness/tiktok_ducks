@@ -15,7 +15,7 @@ function RoadmapItem(props) {
         </div>
       </Hidden>
 
-      <Hidden xsDown lgUp>
+      <Hidden smDown mdUp>
         <div class="font-3 roadmap-title" style={{textAlign: 'center'}}>
           {props.data["title"]}
         </div>

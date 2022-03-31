@@ -23,7 +23,7 @@ function Community() {
             </div>
         </Hidden>
 
-        <Hidden xsDown lgUp>
+        <Hidden smDown mdUp>
             <div class="community-section-container">
                 <div class='font-2'>
                     Join the Community

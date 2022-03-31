@@ -50,7 +50,7 @@ function Footer(roadmapRef, missionRef) {
             </div>
         </Hidden>
 
-        <Hidden xsDown lgUp>
+        <Hidden xsDown mdUp>
         <div class="footer-container">
                 <div class="row">
                     <div class="column left" style={{textAlign: 'left'}}>

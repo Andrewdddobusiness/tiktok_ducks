@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b137320.css",
+    "main.js": "/static/js/main.a6266fe9.js",
+    "static/js/787.6280f3b1.chunk.js": "/static/js/787.6280f3b1.chunk.js",
+    "static/media/duck-model.glb": "/static/media/duck-model.7815257a5174bd68bd22.glb",
+    "static/media/dd-website-background.png": "/static/media/dd-website-background.3696b113e5bde32e8bd4.png",
+    "static/media/duck-5.png": "/static/media/duck-5.4559eceef01aca10f82d.png",
+    "static/media/duck-3.png": "/static/media/duck-3.288e92f555716e4443ec.png",
+    "static/media/duck-7.png": "/static/media/duck-7.ea9b9b8c6e1580cebd6a.png",
+    "static/media/duck-4.png": "/static/media/duck-4.14f682a68ce2405be2ba.png",
+    "static/media/duck-2.png": "/static/media/duck-2.a2f7c283d31b4f0efc75.png",
+    "static/media/duck-1.png": "/static/media/duck-1.76554546411fe1e890d7.png",
+    "static/media/duck-6.png": "/static/media/duck-6.4b00bb690bac333736e0.png",
+    "static/media/duck-8.png": "/static/media/duck-8.51c43a6ac6cbaef0bec4.png",
+    "static/media/dd-banner-website-background.png": "/static/media/dd-banner-website-background.94e067ce33cff605ab40.png",
+    "static/media/profile.png": "/static/media/profile.e713224e73138a94f0b0.png",
+    "static/media/drippy-ducks-logo-v2.png": "/static/media/drippy-ducks-logo-v2.c4cbfc356fed8ffae6fd.png",
+    "static/media/Titan One.ttf": "/static/media/Titan One.82037de7fcea7a87d397.ttf",
+    "static/media/white-logo.png": "/static/media/white-logo.0a47d3425c7d12a9407c.png",
+    "index.html": "/index.html",
+    "main.0b137320.css.map": "/static/css/main.0b137320.css.map",
+    "main.a6266fe9.js.map": "/static/js/main.a6266fe9.js.map",
+    "787.6280f3b1.chunk.js.map": "/static/js/787.6280f3b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b137320.css",
+    "static/js/main.a6266fe9.js"
+  ]
+}

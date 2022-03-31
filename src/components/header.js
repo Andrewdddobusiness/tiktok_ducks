@@ -18,7 +18,7 @@ function Header() {
             </div>
           </Hidden>
 
-          <Hidden xsDown lgUp>
+          <Hidden smDown mdUp>
             <div className="container">
             <img style={{paddingTop: '5%'}} src={DuckTextLogo} alt="profile" height="25%" width="25%"/>
             <div class='font-2' style={{margin: '2%'}}>An exclusive collection of 1,111 Duck NFTs on the Solana Blockchain</div>

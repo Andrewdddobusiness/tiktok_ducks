@@ -63,7 +63,7 @@ function Mission() {
 
             </Hidden>
 
-            <Hidden xsDown lgUp>
+            <Hidden smDown mdUp>
             <div class="section-container">
                 <div class='font-2'>
                     I'm on a Mission...

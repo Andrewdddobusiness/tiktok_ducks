@@ -59,7 +59,7 @@ function Main() {
             </div>
           </Hidden>
 
-          <Hidden xsDown lgUp>
+          <Hidden smDown mdUp>
             <div className="container">
             <ul class="nav">
               <li class="nav-item font-3 cursor" onClick={goToTop} >Home</li>
@@ -133,7 +133,7 @@ function Main() {
             </div>
           </Hidden>
 
-          <Hidden xsDown lgUp>
+          <Hidden smDown mdUp>
           <div class="footer-container">
                 <div class="row">
                     <div class="column left" style={{textAlign: 'left'}}>
